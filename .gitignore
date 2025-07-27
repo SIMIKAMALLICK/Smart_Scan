@@ -12,8 +12,6 @@ codes/.env
 codes/*.toml
 .streamlit/secrets.toml
 
-# Optional image/logo files
-codes/logo.png
 
 # IDE and OS clutter
 .idea/
