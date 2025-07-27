@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Secret and config files
+codes/.env
+codes/*.toml
+.streamlit/secrets.toml
+
+# Optional image/logo files
+codes/logo.png
+
+# IDE and OS clutter
+.idea/
+.vscode/
+.DS_Store
